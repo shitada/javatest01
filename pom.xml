@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>myfirstjavaonazurewebapp01</groupId>
   <artifactId>myfirstjavaonazurewebapp01</artifactId>
-  <version>0.0.1</version>
+  <version></version>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
